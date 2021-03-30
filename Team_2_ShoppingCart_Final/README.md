@@ -50,3 +50,33 @@ Folder src/resources, contains config files for Shopping Cart Spring Boot applic
 - Run the project, select Run as Spring Boot app.
 
 Note: The backend API url is configured in src/environments/environment.ts of the frontend project. It is localhost:8080 by default.
+
+**Folder Structure**
+
+- design
+    - Behavioural Diagrams
+    - Structural Diagrams
+- src
+    - main
+        - java/com/ltts
+            - shoppingcart/Entity
+            - shopping
+                - config
+                - model
+                - pagination
+                - repository
+                - service
+                - web
+        - resources
+            - static
+            - templates
+            - application.properties
+    - test
+- target
+    - classes
+        - META-INF
+        - com/ltts
+        - static
+        - templates
+        - application.properties
+- pom.xml
