@@ -13,7 +13,7 @@ Folder |  Description
 Name                     |  PS No.   | Features                         | Issues Raised       | Issues Resolved
 -------------------------|-----------|----------------------------------|---------------------|---------------------------------
 `1) Abhishek Vithal`     | 99003612  |4 W's and H and Feasibility Study | on design           | design issue is resolved
-`2) Kricha Sahu`         | 99003587  |Connecting Project with MySQL     | on db connectivity  | connectivity issue is reolved
+`2) Kricha Sahu`         | 99003587  |Database(MySQL) Conectivity       | on db connectivity  | connectivity issue is reolved
 `3) Shaloo Kumari`       | 99003603  |SWOT Analysis                     | on requirement      | requirement issue is resolved
 `4) Polimera Sai Khanith`| 99003599  |Behavioral Diagram                | on sequence diagram | Sequence Diagram is resolved
 `5) Akash Singh`         | 99003615  |Structural Diagram                | on Class Diagram    | Class Diagram is resolved
