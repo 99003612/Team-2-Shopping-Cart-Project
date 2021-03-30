@@ -80,3 +80,7 @@ Note: The backend API url is configured in src/environments/environment.ts of th
         - templates
         - application.properties
 - pom.xml
+
+## System Level Diagram
+
+![System Level Diagram](https://github.com/PS99003587/Team-2-Shopping-Cart-Project/blob/main/Team_2_ShoppingCart_Final/design/System%20Level%20Design.png)
