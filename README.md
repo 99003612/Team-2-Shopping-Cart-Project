@@ -4,19 +4,19 @@
 
 Folder |  Description
 ------------- | -------------
-1 *shoppingcart* | Demo project implemening front-end
-2 *Team_2_ShoppingCart*  | Demo project implemening Login and Registration
+1 *shoppingcart* | Demo Project implementing Front-end for Items in Shopping Cart
+2 *Team_2_ShoppingCart*  | Demo Project implementing Login and Registration for the Shopping Cart
 3 *Team_2_ShoppingCart_Final* | Final Shopping Cart Project using Spring Boot and Hibernate.
-4 *Requirements* | Objectives and Requirements.
+
 # Contributors List
 
-Name                     |  PS No.   | Features                         | Issues Raised       | Issues Resolved
--------------------------|-----------|----------------------------------|---------------------|---------------------------------
-`1) Abhishek Vithal`     | 99003612  |4 W's and H and Feasibility Study | on design           | design issue is resolved
-`2) Kricha Sahu`         | 99003587  |Database Conectivity              | on db connectivity  | connectivity issue is reolved
-`3) Shaloo Kumari`       | 99003603  |SWOT Analysis                     | on requirement      | requirement issue is resolved
-`4) Polimera Sai Khanith`| 99003599  |Behavioral Diagram                | on sequence diagram | Sequence Diagram is resolved
-`5) Akash Singh`         | 99003615  |Structural Diagram                | on Class Diagram    | Class Diagram is resolved
+Name                     |  PS No.   | Features                                                    | Issues Raised             | Issues Resolved
+-------------------------|-----------|-------------------------------------------------------------|---------------------------|-----------------------------------------------
+`1) Abhishek Vithal`     | 99003612  |Front-End Implementation and Microservices                   | on registration           | Registration issues are resolved
+`2) Kricha Sahu`         | 99003587  |Database Conectivity and Structural and Behavioural Diagrams | on front-end operations   | Front-end application issues are resolved
+`3) Shaloo Kumari`       | 99003603  |RestFUL Web Services                                         | on database connectivity  | Database Connectivity is running efficiently
+`4) Polimera Sai Khanith`| 99003599  |Login and Registration                                       | on microservices          | MicroServices issue is resolved
+`5) Akash Singh`         | 99003615  |Back-End and Eureka Server                                   | on restful web sevices    | RestFul Web Services issues are resolved
 
 # High Level Design
 
