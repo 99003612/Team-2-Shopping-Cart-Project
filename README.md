@@ -7,7 +7,7 @@ Folder |  Description
 1 *shoppingcart* | Demo project implemening front-end
 2 *Team_2_ShoppingCart*  | Demo project implemening Login and Registration
 3 *Team_2_ShoppingCart_Final* | Final Shopping Cart Project using Spring Boot and Hibernate.
-
+4 *Requirements* | Objectives and Requirements.
 # Contributors List
 
 Name                     |  PS No.   | Features                         | Issues Raised       | Issues Resolved
